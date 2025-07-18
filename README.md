@@ -1,5 +1,6 @@
 # Odin-recipes
 
+live - https://bharatt16.github.io/Odin-recipes/
 
 This is a simple project for **The Odin Project**, where I will build a basic recipe website using **HTML**.
 
